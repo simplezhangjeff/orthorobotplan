@@ -1,8 +1,8 @@
-import OrthoRobotWeb from './OrthoRobotWeb.jsx'
+import AutohomeStyleHome from './components/AutohomeStyleHome.jsx'
 
 function App() {
   return (
-    <OrthoRobotWeb />
+    <AutohomeStyleHome />
   )
 }
 
